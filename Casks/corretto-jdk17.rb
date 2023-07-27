@@ -1,4 +1,4 @@
-cask "corretto17" do
+cask "corretto-jdk17" do
   arch arm: "aarch64", intel: "x64"
 
   version "17.0.8.7.1"
