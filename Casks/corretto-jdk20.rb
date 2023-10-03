@@ -1,4 +1,4 @@
-cask "corretto" do
+cask "corretto-jdk20" do
   arch arm: "aarch64", intel: "x64"
 
   version "20.0.2.10.1"
